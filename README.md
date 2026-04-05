@@ -37,6 +37,8 @@ Currently finishing a **Professional Certificate in Applied AI & Data Science** 
 
 **[ML Pipeline API](https://github.com/jcahal/ml-pipeline-api)** — Classification model wrapped in FastAPI, containerized with Docker, experiment tracking via MLflow. This one's a work in progress — feel free to watch it get less embarrassing over time.
 
+**[Sentiment Classifier](https://github.com/jcahal/sentiment-classifier)** — Real-time text sentiment analysis powered by a fine-tuned DistilBERT model, served via FastAPI, and wrapped in a clean Vue.js interface.
+
 **[Trevelr](https://trevelr.blog/)** — A travel blog, because apparently I also do that.
 
 ---
