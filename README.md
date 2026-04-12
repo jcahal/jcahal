@@ -39,9 +39,12 @@ Currently finishing a **Professional Certificate in Applied AI & Data Science** 
 
 **[Sentiment Classifier](https://github.com/jcahal/sentiment-classifier)** — Real-time text sentiment analysis powered by a fine-tuned DistilBERT model, served via FastAPI, and wrapped in a clean Vue.js interface.
 
-**[Trevelr](https://trevelr.blog/)** — A travel blog, because apparently I also do that.
-
 ---
+
+<!--## 📖 Rantings and ruminations -->
+<!-- **[Personal Blog](https://jcahal.github.io/blog/)** — A personal blog, I sometimes feel the need to share (and vent). -->
+<!-- **[Trevelr](https://trevelr.blog/)** — A travel blog, because apparently I also do that. -->
+<!-- --- -->
 
 ## 🧰 What I Work With
 
