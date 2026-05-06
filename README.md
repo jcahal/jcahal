@@ -31,11 +31,11 @@ Currently finishing a **Professional Certificate in Applied AI & Data Science** 
 
 **[ANSR Ascend Project](http://pc-ascend-team.github.io)** · [source](https://github.com/PC-Ascend-Team) — NASA-funded high-altitude balloon firmware. We sent sensors to near-space and collected more data points than anyone in the program's history. Casual.
 
+**[ML Pipeline API](https://github.com/jcahal/ml-pipeline-api)** — Classification model wrapped in FastAPI, containerized with Docker, experiment tracking via MLflow, and also includes a notebook environment to fiddle with model optomization.
+
 ---
 
 ## 🚧 Currently In Development
-
-**[ML Pipeline API](https://github.com/jcahal/ml-pipeline-api)** — Classification model wrapped in FastAPI, containerized with Docker, experiment tracking via MLflow. This one's a work in progress — feel free to watch it get less embarrassing over time.
 
 **[Sentiment Classifier](https://github.com/jcahal/sentiment-classifier)** — Real-time text sentiment analysis powered by a fine-tuned DistilBERT model, served via FastAPI, and wrapped in a clean Vue.js interface.
 
